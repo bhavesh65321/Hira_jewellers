@@ -1,0 +1,25 @@
+client/package.json
+  s_26499812b8aff4::t_ccac305ebd89ce 6,13
+client/vite.config.js
+  s_26499812b8aff4::t_f26fd943f53d29 7
+client/dist/index.html
+  s_26499812b8aff4::t_e1c6833c1e913f 23-24
+package-lock.json
+  s_26499812b8aff4::t_15eeafeb145425 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "053eab65d35a1352eb541293f6ef71b40534e630",
+  "prompts": {},
+  "sessions": {
+    "s_26499812b8aff4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3ff57fe5-648c-456c-af6b-56a87af2bf85",
+        "model": "us.anthropic.claude-opus-4-5-20251101-v1:0"
+      },
+      "human_author": "sobhavesh <bhavesh.soni@coupa.com>"
+    }
+  }
+}
