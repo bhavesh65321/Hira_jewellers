@@ -3,14 +3,14 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://amitkrraj.github.io/hj",
+  "homepage": "https://bhavesh65321.github.io/Hira_jewellers",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/bhavesh65321/Hira_jewellers.git"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
