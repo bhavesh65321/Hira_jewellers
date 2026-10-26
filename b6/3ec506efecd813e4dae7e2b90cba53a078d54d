@@ -1,0 +1,42 @@
+assets/AboutPage-wixTI36A.js
+  h_187d559c93e780 1
+assets/AdminCategories-Bqnjy8pP.js
+  h_187d559c93e780 1
+assets/AdminDashboard-JWwrpRjh.js
+  h_187d559c93e780 1
+assets/AdminHeroImages-BDN8yzrU.js
+  h_187d559c93e780 1
+assets/AdminProducts-Bx4DgDqJ.js
+  h_187d559c93e780 1
+assets/AdminRates-B0iP7Jec.js
+  h_187d559c93e780 1
+assets/AdminSettings-d4UL_1Kg.js
+  h_187d559c93e780 1
+assets/HomePage-DocWroXK.js
+  h_187d559c93e780 1
+assets/LiveRatePage-CkKz7D_F.js
+  h_187d559c93e780 1
+assets/ProductDetailsPage-DoMYYsJ0.js
+  h_187d559c93e780 1
+assets/SectionHeading-C3UmQeLP.js
+  h_187d559c93e780 1
+assets/ShopPage-CC1aTA9d.js
+  h_187d559c93e780 1
+assets/index-BLnKF0Ma.js
+  h_187d559c93e780 1-2,10,18,26,34,42,44-47,49-50,59,61,65,73,80
+assets/index-DoxFK3E3.css
+  h_187d559c93e780 1
+index.html
+  h_187d559c93e780 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b63ec506efecd813e4dae7e2b90cba53a078d54d",
+  "prompts": {},
+  "humans": {
+    "h_187d559c93e780": {
+      "author": "sobhavesh <bhavesh.soni@coupa.com>"
+    }
+  }
+}
